@@ -1,6 +1,5 @@
 # mute-ads
 Autohotkey script that mutes the system volume when an add is detected on spotify.
-by: Patrick Touchette
 
 You must install autohotkey. Visit https://autohotkey.com/
 
